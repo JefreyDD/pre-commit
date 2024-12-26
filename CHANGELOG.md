@@ -1,7 +1,11 @@
 # CHANGELOG
 Esse arquivo tem como objetivo documentar as alterações feita nese projeto.
 
+<!-- Modelo de exemplo: -->
+[DEV-####](link da tarefa do jira) - o que foi feito, tente usar palavras chaves.
+
 ### Add
+
 
 ### Fix
 
